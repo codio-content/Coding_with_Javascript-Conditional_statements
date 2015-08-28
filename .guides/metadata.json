@@ -1,8 +1,55 @@
 {
  "sections": [
   {
+   "id": "fdc38038-ade0-1986-cb6a-6a91a844289",
+   "title": "Conditional Statements",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Conditional-Statements-fdc3.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "4a6a8fe-659d-99ef-9aa6-1ad30e2cd92",
+   "title": "Preparation video",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Preparation-video-4a6a.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "410c3ea6-6139-6dba-1cab-31aadaef7a5b",
+   "title": "Experiments",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "experiment.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Experiments-410c.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
    "id": "34717d33-cc57-b9d3-c2e1-75cde1b3d52",
-   "title": "Conditions",
+   "title": "Conditions explained",
    "files": [
     {
      "path": "#tabs",
