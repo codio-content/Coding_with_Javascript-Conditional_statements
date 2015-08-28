@@ -1,0 +1,456 @@
+{
+ "sections": [
+  {
+   "id": "34717d33-cc57-b9d3-c2e1-75cde1b3d52",
+   "title": "Conditions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "02-if1/if1.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Conditions-3471.md",
+   "chapter": true,
+   "reset": [
+    "02-if1"
+   ]
+  },
+  {
+   "id": "c5eb761e-2b57-89e1-d09a-e41a588f6633",
+   "title": "Conditions in code",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "02-if1/if1.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Conditions-in-code-c5eb.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "30ad63dc-1dec-7ee1-12e9-f906a9c7a204",
+   "title": "Condition statement explained",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Condition-statement-explained-30ad.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "82e9f37-b7a6-5183-ad0-9bcd30f954f",
+   "title": "Equals explained",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "02-if1/if-eq.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Equals-explained-82e9.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "b06427af-17b9-d269-25a4-3e5bb775e36d",
+   "title": "Challenge ==",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "03-ch-if-1/eq.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge----b064.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "83c6e943-b10a-e78-3845-fa1cca92aea",
+   "title": "Not equals explained",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "02-if1/if-neq.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Not-equals-explained-83c6.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "d48da98-57ca-f7b6-4c5a-aed29f3d4a4e",
+   "title": "Not equals !=",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "03-ch-if-1/eq.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Not-equals----d48d.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "906195bc-e680-3431-1278-cdec87cc5ef",
+   "title": "Two conditions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "02-if1/if2.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "02-if1/if2.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Two-conditions-9061.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "f68ae52a-37df-3ade-ec3-b9fcd657168c",
+   "title": "Fix the errors",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "03-ch-if-1/fix1.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fix-the-errors-f68a.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "9dafc812-f1d-a381-8b96-2b6f2a19f8b1",
+   "title": "Fix more errors",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "03-ch-if-1/fix2.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fix-more-errors-9daf.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "47dab4fc-c00c-fef2-ecd1-2df1e4b5d069",
+   "title": "1 or 0",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "03-ch-if-1/1-0.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-or-0-47da.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "5657fe7e-e5e4-65fb-b319-e6cc24edeb55",
+   "title": "True or False",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "03-ch-if-1/true-false.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/True-or-False-5657.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "8a0f721c-d603-e6ae-eda4-33eea5a5592f",
+   "title": "Logical Operators",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "04-logical/example.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Logical-Operators-8a0f.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "e0929f02-1ca4-5237-6583-86e8839da093",
+   "title": "'And' and 'Or' in code",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "04-logical/example.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-And--and--Or--in-code-e092.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "255db8aa-df53-da77-a692-bad6f9c7f0e8",
+   "title": "Fast Cars 1",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "logical-ch/fast-cars1.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fast-Cars-1-255d.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "91a5d539-5c8f-1a1b-b311-9e7c328be554",
+   "title": "Fast cars 2",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "logical-ch/fast-cars2.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fast-cars-2-91a5.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "4b018fc5-b948-747d-6eaf-893eb1733a4",
+   "title": "Categories",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "logical-ch/categories.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Categories-4b01.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "d0091aa4-83b4-d6ac-6a23-6819adf1c031",
+   "title": "Boolean",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "05-boolean/example.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Boolean-d009.md",
+   "chapter": true,
+   "reset": [
+    "05-boolean"
+   ]
+  },
+  {
+   "id": "ad863736-acf1-44be-ad38-d0f910a57e64",
+   "title": "Equivalent code",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "05-boolean/example.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Equivalent-code-ad86.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "b94c8f8d-6f90-775e-1d15-5dddcaf69386",
+   "title": "Simple boolean return",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "boolean-ch/simple.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simple-boolean-return-b94c.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "1499ef49-cd08-8b44-a7a0-ed106afd67ee",
+   "title": "Boolean inputs",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "boolean-ch/bool-input.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Boolean-inputs-1499.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "22e1bf61-cb46-b0ba-3d8-e76fccc0ba2b",
+   "title": "All done!",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/All-done--22e1.md",
+   "chapter": false,
+   "reset": []
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
