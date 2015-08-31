@@ -14,7 +14,7 @@ str = 'hello'
 if (str == 'there') {
   output(0)
 }
-else 
+else {
   output(1)
 }
 ```

@@ -40,7 +40,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Experiments-410c.md",
@@ -64,7 +64,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Conditions-3471.md",
+   "content-file": ".guides/content/Conditions-explained-3471.md",
    "chapter": true,
    "reset": [
     "02-if1"
@@ -173,7 +173,7 @@
      "action": "close"
     },
     {
-     "path": "03-ch-if-1/eq.js",
+     "path": "03-ch-if-1/neq.js",
      "panel": 0,
      "action": "open"
     }

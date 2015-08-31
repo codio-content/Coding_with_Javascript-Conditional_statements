@@ -41,11 +41,37 @@ var test = {
     }
     catch(e) {
       if(typeof cb == 'function') {
-        
-        var jshint = require('./jshint');
-        
-        console.log(e.message)        
-        cb(null, e.message);
+        var msg = '';
+
+        var CLIEngine = require("eslint").CLIEngine;
+
+        var cli = new CLIEngine({
+            envs: ["browser", "mocha"],
+            useEslintrc: false,
+            rules: {
+                // semi: 2
+            }
+        });
+
+        var report = cli.executeOnFiles([file]);        // console.log(report);
+
+        if(report.errorCount) {
+          for (var i = 0; i < report.results.length; i++) {
+            for (var j = 0; j < report.results[i].messages.length; j++) {
+              var obj = report.results[i].messages[j];
+
+              if(msg.length > 0) {
+                msg += '\n';
+              }
+
+              msg += "error: '" + obj.message + "' at line " + obj.line + ", column " + obj.column 
+            }
+          };
+        }
+        else {
+          msg = e.toString()    
+        }
+        cb(null, msg);      
       }      
     }
 

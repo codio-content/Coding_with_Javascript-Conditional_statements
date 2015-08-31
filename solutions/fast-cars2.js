@@ -1,10 +1,4 @@
-{Run code}(node run-user.js ./logical-ch/fast-cars2.js)
 
-{Check It!|assessment}(test-393850037)
-
-|||guidance
-## Solution
-```javascript
 input0 = 70
 input1 = 80
 
@@ -20,5 +14,3 @@ else if (input0>70 || input1>70) {
 else {
   output('no fast cars')
 }
-```
-|||
