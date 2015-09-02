@@ -210,11 +210,11 @@
     },
     {
      "path": "02-if1/if2.flode",
-     "panel": 0,
+     "panel": 1,
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "3-cell",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Two-conditions-9061.md",
@@ -235,7 +235,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Fix-the-errors-f68a.md",
