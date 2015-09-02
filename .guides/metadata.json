@@ -9,7 +9,7 @@
      "action": "close"
     }
    ],
-   "layout": "",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Conditional-Statements-fdc3.md",
@@ -98,6 +98,16 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Condition-statement-explained-30ad.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "3422eb7a-98c3-3692-88c3-24cd3b66654",
+   "title": "Indenting & Tab",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Indenting---Tab-3422.md",
    "chapter": false,
    "reset": []
   },

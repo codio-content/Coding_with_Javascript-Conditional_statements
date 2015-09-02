@@ -21,3 +21,7 @@ else {
 }
 ```
 
+## Reminder
+
+![](.guides/img/simple-if.png
+)

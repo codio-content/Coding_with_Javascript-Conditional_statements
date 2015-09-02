@@ -1,6 +1,36 @@
 
 var test = require('../test-fw.js');
 
+test.tests('/home/codio/workspace/logical-ch/categories.js', [{
+    inputs: [6],
+    outputs: ['primary school'],
+    message: 'Your code is not detecting the "primary school" category correctly'
+  }, {
+    inputs: [11],
+    outputs: ['primary school'],
+    message: 'Your code is not detecting the "primary school" category correctly'
+  }, {
+    inputs: [12],
+    outputs: ['secondary school'],
+    message: 'Your code is not detecting the "secondary school" category correctly'
+  }, {
+    inputs: [18],
+    outputs: ['secondary school'],
+    message: 'Your code is not detecting the "secondary school" category correctly'
+  }, {
+    inputs: [5],
+    outputs: ['NA'],
+    message: 'Your code is not detecting "NA" values'
+  }, {
+    inputs: [19],
+    outputs: ['NA'],
+    message: 'Your code is not detecting "NA" values'
+  }
+]);
+
+
+var test = require('../test-fw.js');
+
 var script = '/home/codio/workspace/logical-ch/categories.js';
 
 test.test(script, [6], function(out, err) {

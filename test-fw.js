@@ -1,6 +1,7 @@
 
 var vm = require('vm');
 var fs = require('fs');
+var async = require('async');
 
 var test = {
   test: function(file, argv, cb) {
@@ -77,7 +78,32 @@ var test = {
 
     return output;
   }
+}
 
+test.tests = function(script, tasks) {
+  async.each(tasks, function(t, cb) {
+    test.test(script, t.inputs, function(outputs, err) {
+      if(err) return cb(err);
+      if(outputs.length != t.outputs.length) cb(t.message || 'Not quite right please try again.');
+
+      for(var i = 0; i < outputs.length; i++) {
+        if(outputs[i] != t.outputs[i]) {
+          return cb(t.message || 'Not quite right please try again.');
+        }
+      }
+
+      cb(null);
+    });
+  }, function(err, results) {
+    if(err) {
+      console.log(err);
+      process.exit(1)   
+    }
+    else {
+      console.log('Well done!');
+      process.exit(0)       
+    }
+  });
 }
 
 module.exports = test;

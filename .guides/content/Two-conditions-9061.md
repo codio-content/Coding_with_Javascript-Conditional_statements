@@ -20,13 +20,13 @@ if ( condition1) {
   do something
 }
 else if ( condition2 ) {
-  output ('Huge')
+  do something else
 }
 else if ( condition3 ) {
-  output ('Huge')
+  do something else
 }
 else {
-  output ('Big')
+  otherwise do this
 }
 ```
 
