@@ -9,9 +9,9 @@ To run your code, press this button {Run}(node run-user.js ./03-ch-if-1/fix1.js)
 - the second `output()` is wrongly written as `outputs()`
 
 ```javascript
-str = 'hello'
+input0 = 'hello'
 
-if (str == 'there') {
+if (input0 == 'there') {
   output(0)
 }
 else {

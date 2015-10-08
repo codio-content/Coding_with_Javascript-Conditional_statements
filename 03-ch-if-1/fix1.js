@@ -1,9 +1,9 @@
 
-str = 'hello'
+input0 = 'hello'
 
-if (str = 'there') {
+if (input0 = 'there') {
   output(0)
 }
-else 
-  outputs(1)
+else {
+  output(1)
 }
