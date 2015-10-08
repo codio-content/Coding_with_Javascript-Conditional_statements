@@ -1,6 +1,6 @@
 Now let's see how that chart is written in Javascript, which you can see on the left.
 
-{Run the code}(node 02-if1/if1.js)
+{Run the code}(node run-user.js 02-if1/if1.js)
 
 Let's analyse how our code works.
 
