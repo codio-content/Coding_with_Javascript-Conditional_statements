@@ -16,7 +16,7 @@ isCold = true
 ```
 
 ## Not
-Now look at the second decision. The expression `!hasJumper` can be read as '**not** has a jumper. 
+Now look at the second decision. The expression `!hasJumper` can be read as '**not** has a jumper'. 
 
 Note the `!` character before `hasJumper`. This character reads 'not'.
 
@@ -25,6 +25,8 @@ We could also have written it like this
 ```javascript
 hasJumper = false
 ```
+
+.. the result would be the same. However, mixing up your `true` and `false` comparisons can be confusing. It is more readable to make all your comparisons to `true` if possible.
 
 ## Play with the chart
 Go ahead and step through the chart. Feel free to change the values of `isCold` and `hasJumper` and follow the flow of execution.
