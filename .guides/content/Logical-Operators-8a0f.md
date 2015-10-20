@@ -3,16 +3,19 @@ Take a look at the Flode chart on the left. This contains 2 conditional blocks w
 Below is the equivalent Javascript code. Try different values for `number`.
 
 ```javascript
-number = -10
+// Change the value of number and step through
+var number = -10  
 
-if (number >= 10 && number < 100 ) {
+// example of 'and'
+if (number >= 10 && number < 100 ) {  
   output('2 digit number')
 }
 else {
   output('1 digit number')
 }
 
-if ( number < 0 || number >= 1000 ) {
+// example of 'or'
+if ( number < 0 || number >= 1000 ) { 
   output('Invalid number')
 }
 else {
