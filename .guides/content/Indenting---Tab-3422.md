@@ -1,7 +1,7 @@
 This is very important, so please read it carefully.
 
 ## Indenting your code
-In some languaes like Python, indentation is *required*. If you don't indent you code properly, it will not run.
+In some languages like Python, indentation is *required*. If you don't indent you code properly, it will not run.
 
 In Javascript, your code will run fine without indentation but it will look messy if you don't.
 
