@@ -1,5 +1,3 @@
-To run your code, press this button {Run}(node run-user.js ./03-ch-if-1/fix1.js)
-
 {Check It!|assessment}(test-1180993407)
 
 |||guidance

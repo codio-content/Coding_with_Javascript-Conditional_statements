@@ -1,9 +1,10 @@
 
-input0 = 'hello'
+// Get input from the command line
+input = process.argv[2]      
 
 if (input0 = 'there') {
-  output(0)
+  console.log(0)
 }
 else {
-  output(1)
+  console.log(1)
 }

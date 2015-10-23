@@ -24,7 +24,8 @@ if ( input0 > 100 ) {
 **If** this condition is true, then you execute all the instructions that come after it, within the `{` `}`. There is only one instruction in this example.
 
 ```javascript
-output ('Big')
+  output ('Big')
+```
 
 Everything between `{` and `}` is called a *code block*.
 

@@ -1,20 +1,18 @@
-{Run code}(node run-user.js ./logical-ch/categories.js)
-
 {Check It!|assessment}(test-3417544426)
 
 |||guidance
 ## Solution
 ```javascript
-input0 = 8
+input0 = process.argv[2]
 
 if (input0 >= 6 && input0 <= 11) {
-  output('primary school')
+  console.log('primary school')
 }
 else if (input0 >= 12 && input0 <= 18) {
-  output ('secondary school')
+  console.log('secondary school')
 }
 else {
-  output('NA')
+  console.log('NA')
 }
 ```
 |||

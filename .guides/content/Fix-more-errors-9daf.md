@@ -1,5 +1,3 @@
-To run your code, press this button {Run}(node run-user.js ./03-ch-if-1/fix2.js)
-
 {Check It!|assessment}(test-484914084)
 
 |||guidance
@@ -10,7 +8,7 @@ To run your code, press this button {Run}(node run-user.js ./03-ch-if-1/fix2.js)
 - the `else` blocked is not closed with a `}`
 
 ```javascript
-input0 = 'BingoX'
+input0 = process.argv[2]
 
 if (input0 != 'Bingo') {
   output( 'Missed' )

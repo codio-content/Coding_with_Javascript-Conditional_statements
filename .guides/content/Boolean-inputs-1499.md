@@ -1,32 +1,30 @@
-{Run code}(node run-user.js ./boolean-ch/bool-input.js)
-
 {Check It!|assessment}(test-2697509729)
 
 |||guidance
 ## Solution
 ```javascript
-input0 = false
-input1 = true
+input0 = process.argv[2]
+input1 = process.argv[3]
 
-// Asign inputs to nicer names 
+// Assign inputs to nicer names 
 // to make the code below more readable
-isCold = input0
-isRainy = input1
+var isCold = input0
+var isRainy = input1
 
 if ( isCold ) {
   if ( isRainy ) {
-    output('cold and rainy')
+    console.log('cold and rainy')
   }
   else {
-    output('cold and dry')
+    console.log('cold and dry')
   }
 }
 else {
   if ( isRainy ) {
-    output('warm and rainy')
+    console.log('warm and rainy')
   }
   else {
-    output('warm and dry')
+    console.log('warm and dry')
   }
 }
 
