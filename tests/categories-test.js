@@ -1,5 +1,5 @@
 
-var test = require('../test-fw.js');
+var test = require('/home/codio/workspace/test-fw.js');
 
 test.tests('/home/codio/workspace/challenges/categories.js', [{
     inputs: [6],
@@ -28,8 +28,6 @@ test.tests('/home/codio/workspace/challenges/categories.js', [{
   }
 ]);
 
-
-var test = require('../test-fw.js');
 
 var script = '/home/codio/workspace/challenges/categories.js';
 

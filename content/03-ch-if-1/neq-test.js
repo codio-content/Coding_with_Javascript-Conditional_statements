@@ -1,5 +1,5 @@
 
-var test = require('../test-fw.js');
+var test = require('/home/codio/workspace/test-fw.js');
 
 test.tests('/home/codio/workspace/content/03-ch-if-1/neq.js', [{
     inputs: ['BingoX'],

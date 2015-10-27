@@ -1,5 +1,5 @@
 
-var test = require('../test-fw.js');
+var test = require('/home/codio/workspace/test-fw.js');
 
 test.tests('/home/codio/workspace/challenges/bool-input.js', [{
     inputs: [true, true],
