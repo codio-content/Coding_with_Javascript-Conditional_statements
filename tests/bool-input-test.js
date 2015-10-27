@@ -1,7 +1,7 @@
 
 var test = require('../test-fw.js');
 
-test.tests('/home/codio/workspace/boolean-ch/bool-input.js', [{
+test.tests('/home/codio/workspace/challenges/bool-input.js', [{
     inputs: [true, true],
     outputs: ['cold and rainy'],
     message: 'Your code is not handling the case where it is cold and rainy'

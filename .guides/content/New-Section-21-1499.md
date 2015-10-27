@@ -1,5 +1,3 @@
-{Run code}(node run-user.js ./boolean-ch/bool-input-test.js)
-
 {Check It!|assessment}(test-2697509729)
 
 |||guidance

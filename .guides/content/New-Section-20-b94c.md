@@ -1,1 +1,1 @@
-{Run code}(node run-user.js ./05-boolean/example.js)
+{Run code}(node run-user.js content/05-boolean/example.js)

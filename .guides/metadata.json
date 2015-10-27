@@ -37,7 +37,7 @@
      "action": "close"
     },
     {
-     "path": "experiment.js",
+     "path": "content/experiment.js",
      "panel": 0,
      "action": "open"
     }
@@ -59,7 +59,7 @@
      "action": "close"
     },
     {
-     "path": "02-if1/if1.flode",
+     "path": "content/02-if1/if1.flode",
      "panel": 0,
      "action": "open"
     }
@@ -83,7 +83,7 @@
      "action": "close"
     },
     {
-     "path": "02-if1/if1.js",
+     "path": "content/02-if1/if1.js",
      "panel": 0,
      "action": "open"
     }
@@ -127,7 +127,7 @@
      "action": "close"
     },
     {
-     "path": "02-if1/if-eq.flode",
+     "path": "content/02-if1/if-eq.flode",
      "panel": 0,
      "action": "open"
     }
@@ -149,7 +149,7 @@
      "action": "close"
     },
     {
-     "path": "03-ch-if-1/eq.js",
+     "path": "content/03-ch-if-1/eq.js",
      "panel": 0,
      "action": "open"
     }
@@ -171,7 +171,7 @@
      "action": "close"
     },
     {
-     "path": "02-if1/if-neq.flode",
+     "path": "content/02-if1/if-neq.flode",
      "panel": 0,
      "action": "open"
     }
@@ -193,7 +193,7 @@
      "action": "close"
     },
     {
-     "path": "03-ch-if-1/neq.js",
+     "path": "content/03-ch-if-1/neq.js",
      "panel": 0,
      "action": "open"
     }
@@ -215,12 +215,12 @@
      "action": "close"
     },
     {
-     "path": "02-if1/if2.js",
+     "path": "content/02-if1/if2.js",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "02-if1/if2.flode",
+     "path": "content/02-if1/if2.flode",
      "panel": 1,
      "action": "open"
     }
@@ -242,7 +242,7 @@
      "action": "close"
     },
     {
-     "path": "03-ch-if-1/fix1.js",
+     "path": "content/03-ch-if-1/fix1.js",
      "panel": 0,
      "action": "open"
     }
@@ -264,7 +264,7 @@
      "action": "close"
     },
     {
-     "path": "03-ch-if-1/fix2.js",
+     "path": "content/03-ch-if-1/fix2.js",
      "panel": 0,
      "action": "open"
     }
@@ -286,7 +286,7 @@
      "action": "close"
     },
     {
-     "path": "03-ch-if-1/1-0.js",
+     "path": "content/03-ch-if-1/1-0.js",
      "panel": 0,
      "action": "open"
     }
@@ -308,7 +308,7 @@
      "action": "close"
     },
     {
-     "path": "03-ch-if-1/true-false.js",
+     "path": "content/03-ch-if-1/true-false.js",
      "panel": 0,
      "action": "open"
     }
@@ -330,7 +330,7 @@
      "action": "close"
     },
     {
-     "path": "04-logical/example.flode",
+     "path": "content/04-logical/example.flode",
      "panel": 0,
      "action": "open"
     }
@@ -352,7 +352,7 @@
      "action": "close"
     },
     {
-     "path": "04-logical/example.js",
+     "path": "content/04-logical/example.js",
      "panel": 0,
      "action": "open"
     }
@@ -374,7 +374,7 @@
      "action": "close"
     },
     {
-     "path": "logical-ch/fast-cars1.js",
+     "path": "challenges/fast-cars1.js",
      "panel": 0,
      "action": "open"
     }
@@ -396,7 +396,7 @@
      "action": "close"
     },
     {
-     "path": "logical-ch/fast-cars2.js",
+     "path": "challenges/fast-cars2.js",
      "panel": 0,
      "action": "open"
     }
@@ -418,7 +418,7 @@
      "action": "close"
     },
     {
-     "path": "logical-ch/categories.js",
+     "path": "challenges/categories.js",
      "panel": 0,
      "action": "open"
     }
@@ -440,7 +440,7 @@
      "action": "close"
     },
     {
-     "path": "05-boolean/example.flode",
+     "path": "content/05-boolean/example.flode",
      "panel": 0,
      "action": "open"
     }
@@ -464,7 +464,7 @@
      "action": "close"
     },
     {
-     "path": "05-boolean/example.js",
+     "path": "content/05-boolean/example.js",
      "panel": 0,
      "action": "open"
     }
@@ -486,7 +486,7 @@
      "action": "close"
     },
     {
-     "path": "boolean-ch/simple.js",
+     "path": "challenges/simple.js",
      "panel": 0,
      "action": "open"
     }
@@ -508,7 +508,7 @@
      "action": "close"
     },
     {
-     "path": "boolean-ch/bool-input.js",
+     "path": "challenges/bool-input.js",
      "panel": 0,
      "action": "open"
     }

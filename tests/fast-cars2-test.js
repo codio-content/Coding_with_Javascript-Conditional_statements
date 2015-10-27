@@ -1,7 +1,7 @@
 
 var test = require('../test-fw.js');
 
-test.tests('/home/codio/workspace/logical-ch/fast-cars2.js', [{
+test.tests('/home/codio/workspace/challenges/fast-cars2.js', [{
     inputs: [71, 0],
     outputs: ['1 fast car'],
     message: 'Your code does not output "1 fast car" when at least one of the cars is travelling more than 70'

@@ -1,7 +1,7 @@
 
 var test = require('../test-fw.js');
 
-test.tests('/home/codio/workspace/logical-ch/categories.js', [{
+test.tests('/home/codio/workspace/challenges/categories.js', [{
     inputs: [6],
     outputs: ['primary school'],
     message: 'Your code is not detecting the "primary school" category correctly'
@@ -31,7 +31,7 @@ test.tests('/home/codio/workspace/logical-ch/categories.js', [{
 
 var test = require('../test-fw.js');
 
-var script = '/home/codio/workspace/logical-ch/categories.js';
+var script = '/home/codio/workspace/challenges/categories.js';
 
 test.test(script, [6], function(out, err) {
 

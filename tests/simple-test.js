@@ -1,7 +1,7 @@
 
 var test = require('../test-fw.js');
 
-test.tests('/home/codio/workspace/boolean-ch/simple.js', [{
+test.tests('/home/codio/workspace/challenges/simple.js', [{
     inputs: [100],
     outputs: [true],
     message: 'Your code does not output a boolean value of "true" when a number greater than or equal to 100 is input'

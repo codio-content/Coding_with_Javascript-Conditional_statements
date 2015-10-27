@@ -1,7 +1,7 @@
 
 var test = require('../test-fw.js');
 
-test.tests('/home/codio/workspace/03-ch-if-1/fix1.js', [{
+test.tests('/home/codio/workspace/content/03-ch-if-1/fix1.js', [{
     inputs: ['there'],
     outputs: [0],
     message: 'Your code does not output "0" when "there" is input'
