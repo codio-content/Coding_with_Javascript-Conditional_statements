@@ -1,14 +1,14 @@
 
-input0 = 211
+var number = 211
 
 // As written in the Flode chart
-if ( input0 <= 100 ) {
-  output ('Small')
+if (number <= 100 ) {
+  console.log ('Small')
 }
-else if ( input0 > 200 ) {
-  output ('Huge')
+else if (number > 200) {
+  console.log ('Huge')
 }
 else {
-  output ('Big')
+  console.log ('Big')
 }
 
