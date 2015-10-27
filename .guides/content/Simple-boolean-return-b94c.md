@@ -3,9 +3,9 @@
 |||guidance
 ## Solution
 ```javascript
-input0 = process.argv[2]
+var N = process.argv[2]
 
-if(input0 >= 100) {
+if(N >= 100) {
   console.log(true)
 }
 else {

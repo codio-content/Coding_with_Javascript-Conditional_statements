@@ -3,13 +3,13 @@
 |||guidance
 ## Solution
 ```javascript
-input0 = 'BingoX'
+var testString = process.argv[2]
 
-if (input0 != 'Bingo') {
-  output( 'Missed' )
+if (testString != 'Bingo') {
+  console.log('Missed')
 }
 else {
-  output ('Hit!')
+  console.log('Hit!')
 }
 ```
 |||

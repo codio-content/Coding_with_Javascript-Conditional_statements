@@ -3,13 +3,13 @@
 |||guidance
 ## Solution
 ```javascript
-input0 = 55
+var N = process.argv[2]
 
-if (input0 == 100) {
-  output( 'Hit' )
+if (N == 100) {
+  console.log('Hit')
 }
 else {
-  output ('Miss')
+  console.log('Miss')
 }
 ```
 |||

@@ -1,12 +1,12 @@
 
 // Get input from the command line
-input0 = process.argv[2]
+var number = process.argv[2]
 
 // Show what the number we read is
-console.log('Command line input is: ' + input0)
+console.log('Command line input is: ' + number)
 
 // And here comes our 'if' statement
-if ( input0 > 100 ) {
+if ( number > 100 ) {
   console.log ('Big')
 }
 else {

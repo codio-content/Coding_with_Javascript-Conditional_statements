@@ -8,18 +8,18 @@ var number = -10
 
 // example of 'and'
 if (number >= 10 && number < 100 ) {  
-  output('2 digit number')
+  console.log('2 digit number')
 }
 else {
-  output('1 digit number')
+  console.log('1 digit number')
 }
 
 // example of 'or'
 if ( number < 0 || number >= 1000 ) { 
-  output('Invalid number')
+  console.log('Invalid number')
 }
 else {
-  output('OK')
+  console.log('OK')
 }
 ```
 

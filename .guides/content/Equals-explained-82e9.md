@@ -1,19 +1,20 @@
-The 'equals' condition is a little strange in Javascript.
-
 Take a look at the Flode chart on the left. Below is the Javascript code.
 
 ```javscript
-if ( input0 == 100 ) {
-  output( 'Is 100')
+if ( number == 100 ) {
+  console.log( 'Is 100')
 }
 else {
-  output( 'Is not 100' )
+  console.log( 'Is not 100' )
 }
 ```
 
 ## Why ==
-The key thing to notice here is that you need to use `==` and **not* =.
+Notice that you need to use `==` and **not* =.
 
-Below is the explanation of why you need to use `==`. For now, just remember that in %99.999 of cases, you should always use `==`.
+In Javascript (and many other programming languages) `=` is the *assignment operator*, not a comparison operator. Use `==` to compare things and `=` to set variables.
 
-The reason for this is that `=` is the *assignment operator*. This means it would set `input0` to be 100 and would then result in the condition being true, regardless of what the value of `100` was beforehand.
+```javascript
+N = 100   // sets N to  100
+N == 100  // false unless N has the value 100
+```

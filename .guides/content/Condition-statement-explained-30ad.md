@@ -1,11 +1,11 @@
 Now let's analyse how the `if` statement works. Here's the full code again.
 
 ```javascript
-if ( input0 > 100 ) {
-  output ('Big')
+if ( number > 100 ) {
+  console.log ('Big')
 }
 else {
-  output ('Small')
+  console.log ('Small')
 }
 ```
 
@@ -13,7 +13,7 @@ Let's start with the first line.
 
 ## The if statement
 ```javascript
-if ( input0 > 100 ) {
+if ( number > 100 ) {
 ```
 
 1. You start your line with `if`.
@@ -24,7 +24,7 @@ if ( input0 > 100 ) {
 **If** this condition is true, then you execute all the instructions that come after it, within the `{` `}`. There is only one instruction in this example.
 
 ```javascript
-  output ('Big')
+  console.log ('Big')
 ```
 
 Everything between `{` and `}` is called a *code block*.
@@ -33,7 +33,7 @@ Everything between `{` and `}` is called a *code block*.
 If the condition is **not true**, then `else` code block, so only this would execute.
 
 ```javascript
-  output ('Small')
+  console.log ('Small')
 ```
 
 ## Code blocks

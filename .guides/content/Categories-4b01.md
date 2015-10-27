@@ -3,12 +3,12 @@
 |||guidance
 ## Solution
 ```javascript
-input0 = process.argv[2]
+var age = process.argv[2]
 
-if (input0 >= 6 && input0 <= 11) {
+if (age >= 6 && age <= 11) {
   console.log('primary school')
 }
-else if (input0 >= 12 && input0 <= 18) {
+else if (age >= 12 && age <= 18) {
   console.log('secondary school')
 }
 else {

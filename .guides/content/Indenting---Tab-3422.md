@@ -8,11 +8,11 @@ In Javascript, your code will run fine without indentation but it will look mess
 See how this is less readable?
 
 ```javascript
-if ( input0 > 100 ) {
-output ('Big')
+if ( number > 100 ) {
+console.log ('Big')
 }
 else {
-output ('Small')
+console.log ('Small')
 }
 ```
 
@@ -20,7 +20,7 @@ output ('Small')
 You should indent all code within a code block. Code blocks start with the '{' character and end with the '}'.
 
 ```javascript
-if ( input0 > 100 ) {
+if ( number > 100 ) {
   code here
   and here
   and here

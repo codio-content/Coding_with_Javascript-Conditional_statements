@@ -4,13 +4,13 @@ Here's a good example.
 
 ```javascript
 if (number >= 10 && number < 100 ) {  // 1. if number is 2 digits long
-  output('2 digit number')            // then output text saying so
+  console.log('2 digit number')       // then output text saying so
 }
 else if (number >= 100 ) {            // 2. otherwise, if more than 2 digits
-  output('multi digit number')        // then output text saying so
+  console.log('multi digit number')   // then output text saying so
 }
 else {                                // 3. otherwise 
-  output('1 digit number')            // this must be a single digit number
+  console.log('1 digit number')       // this must be a single digit number
 }
 ```
 

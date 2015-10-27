@@ -3,13 +3,8 @@
 |||guidance
 ## Solution
 ```javascript
-input0 = process.argv[2]
-input1 = process.argv[3]
-
-// Assign inputs to nicer names 
-// to make the code below more readable
-var isCold = input0
-var isRainy = input1
+var isCold  = process.argv[2]
+var isRainy = process.argv[3]
 
 if ( isCold ) {
   if ( isRainy ) {

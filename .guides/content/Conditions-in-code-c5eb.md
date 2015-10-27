@@ -4,20 +4,20 @@ Now let's see how that chart is written in Javascript, which you can see on the 
 
 Let's analyse how our code works.
 
-First of all, we are setting the test data `20` for our input variable `input0`, just like we did in Flode.
+First of all, we are setting the test data `20` for our input variable `number`, just like we did in Flode.
 
 ```javascript
-input0 = 20
+var number = 20
 ```
 
-And here comes the important bit. We are using an `if` statement to check whether `input0` is greater than 100. If it is, then we output the string 'Big'. Otherwise, we output the string 'Small'.
+And here comes the important bit. We are using an `if` statement to check whether `number` is greater than 100. If it is, then we output the string 'Big'. Otherwise, we output the string 'Small'.
 
 ```javascript
-if ( input0 > 100 ) {
-  output ('Big')
+if ( number > 100 ) {
+  console.log ('Big')
 }
 else {
-  output ('Small')
+  console.log ('Small')
 }
 ```
 

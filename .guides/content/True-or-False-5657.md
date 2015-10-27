@@ -3,9 +3,9 @@
 |||guidance
 ## Solution
 ```javascript
-input0 = process.argv[2]
+var inputText = process.argv[2]
 
-if (input0 == 'true') {
+if (inputText == 'true') {
   output(1)
 }
 else {
