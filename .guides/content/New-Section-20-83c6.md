@@ -1,6 +1,6 @@
-The 'equals' and 'not equals' is a little strange in Javascript.
+The 'equals' and 'not equals' is a little strange in JavaScript.
 
-Take a look at the Flode chart on the left. Below is the Javascript code.
+Take a look at the Flode chart on the left. Below is the JavaScript code.
 
 ```javscript
 if ( input0 == 100 ) {

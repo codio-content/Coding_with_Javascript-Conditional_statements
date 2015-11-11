@@ -1,4 +1,4 @@
-Take a look at the Flode chart on the left, which shows a 'not equals' condition. Below is the Javascript code.
+Take a look at the Flode chart on the left, which shows a 'not equals' condition. Below is the JavaScript code.
 
 ```javscript
 if ( input0 != 100 ) {

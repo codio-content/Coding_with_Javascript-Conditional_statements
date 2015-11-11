@@ -1,4 +1,4 @@
-Take a look at the Flode chart on the left. Below is the Javascript code.
+Take a look at the Flode chart on the left. Below is the JavaScript code.
 
 ```javscript
 if ( number == 100 ) {

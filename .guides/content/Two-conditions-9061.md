@@ -2,7 +2,7 @@ Now let's look at another example. We can see a Flode chart on the left which as
 
 > If the number is less than or equal to 100, output 'Small’. If the number is larger than 100 then if it is also larger than 200, output ‘Huge’ otherwise output 'Big’.
 
-Click on the `if2.js` file tab in the left pane to see how the Javascript code would be written for this case.
+Click on the `if2.js` file tab in the left pane to see how the JavaScript code would be written for this case.
 
 ## else if
 Notice that we are handling the second condition using this statement
@@ -13,7 +13,7 @@ else if (input0 > 200) {
 
 This line will only execute if the first `if` condition was `false`.
 
-Here is the general way Javascript evaluates its `if` statements.
+Here is the general way JavaScript evaluates its `if` statements.
 
 ```javascript
 if ( condition1) {
