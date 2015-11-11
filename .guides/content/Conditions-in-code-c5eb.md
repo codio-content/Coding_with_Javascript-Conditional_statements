@@ -1,4 +1,4 @@
-Now let's see how that chart is written in Javascript, which you can see on the left.
+Now let's see how that chart is written in JavaScript, which you can see on the left.
 
 {Run the code}(node run-user.js content/02-if1/if1.js 20)
 

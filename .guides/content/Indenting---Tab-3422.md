@@ -1,9 +1,6 @@
-This is very important, so please read it carefully.
-
-## Indenting your code
 In some languages like Python, indentation is *required*. If you don't indent you code properly, it will not run.
 
-In Javascript, your code will run fine without indentation but it will look messy if you don't.
+In JavaScript, your code will run fine without indentation but it will look messy if you don't.
 
 See how this is less readable?
 
@@ -42,5 +39,4 @@ One thing that beginners do when indenting their code is to press the space bar 
 
 Use the tab key instead. This ensures that indentations are consistent.
 
-In Javascript, it does not really matter by how much you indent as long as you indent.
-
+In JavaScript, use either 2 or 4 spaces for indenting.

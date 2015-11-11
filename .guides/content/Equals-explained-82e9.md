@@ -12,7 +12,7 @@ else {
 ## Why ==
 Notice that you need to use `==` and **not* =.
 
-In Javascript (and many other programming languages) `=` is the *assignment operator*, not a comparison operator. Use `==` to compare things and `=` to set variables.
+In JavaScript (and many other programming languages) `=` is the *assignment operator*, not a comparison operator. Use `==` to compare things and `=` to set variables.
 
 ```javascript
 N = 100   // sets N to  100
