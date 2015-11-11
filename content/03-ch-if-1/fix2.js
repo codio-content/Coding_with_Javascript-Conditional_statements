@@ -1,10 +1,10 @@
 
 // Get input from the command line
-input0 = process.argv[2]
+var input0 = process.argv[2]
 
 if (input != 'Bingo') 
-  output( 'Missed' )
+  console.log( 'Missed' )
 }
 else {
-  output ('Hit!')
+  console.log ('Hit!')
 

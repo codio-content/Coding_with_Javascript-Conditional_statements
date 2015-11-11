@@ -6,10 +6,10 @@
 var inputText = process.argv[2]
 
 if (inputText == 'true') {
-  output(1)
+  console.log(1)
 }
 else {
-  output(0)
+  console.log(0)
 }
 ```
 |||

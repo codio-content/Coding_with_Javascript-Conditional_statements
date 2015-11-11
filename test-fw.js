@@ -19,6 +19,7 @@ var test = {
       console: console
     }
 
+    console.log("<small><b>Running with input ("+argv+")</b></small>")
     // 
     // We will replace the console.log function with one which stores the
     // console output so we can check the test. We hold a pointer to the 
@@ -28,6 +29,7 @@ var test = {
     var normalConsoleLogFunction= console.log;
     scope.console.log= function(val){
       output.push(val);
+      normalConsoleLogFunction(val)
     }
 
 

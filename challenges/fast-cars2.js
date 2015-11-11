@@ -1,7 +1,6 @@
 
-// Get input from the command line
-var car1 = process.argv[2]
-var car2 = process.argv[3]
+// Get our car speeds from the command line
+var speed1 = process.argv[2]
+var speed2 = process.argv[3]
 
-// Your code goes here
-
+// Write your code below

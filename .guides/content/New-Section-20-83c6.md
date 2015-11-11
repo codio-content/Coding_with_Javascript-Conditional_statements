@@ -4,10 +4,10 @@ Take a look at the Flode chart on the left. Below is the JavaScript code.
 
 ```javscript
 if ( input0 == 100 ) {
-  output( 'Is 100')
+  console.log( 'Is 100')
 }
 else {
-  output( 'Is not 100' )
+  console.log( 'Is not 100' )
 }
 ```
 

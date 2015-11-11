@@ -8,13 +8,13 @@
 - the `else` blocked is not closed with a `}`
 
 ```javascript
-input0 = process.argv[2]
+var text = process.argv[2]
 
-if (input0 != 'Bingo') {
-  output( 'Missed' )
+if (text != 'Bingo') {
+  console.log( 'Missed' )
 }
 else {
-  output ('Hit!')
+  console.log('Hit!')
 }
 ```
 |||

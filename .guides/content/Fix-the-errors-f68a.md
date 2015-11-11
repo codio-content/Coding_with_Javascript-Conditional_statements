@@ -3,17 +3,14 @@
 |||guidance
 ## Solution
 
-- the if condition has `=` instead of `==`
-- the second `output()` is wrongly written as `outputs()`
-
 ```javascript
 input0 = 'hello'
 
 if (input0 == 'there') {
-  output(0)
+  console.log(0)
 }
 else {
-  output(1)
+  console.log(1)
 }
 ```
 |||
