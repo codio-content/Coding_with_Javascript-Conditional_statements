@@ -3,8 +3,15 @@
 |||guidance
 ## Solution
 ```javascript
+
+// Get input from the command line
 var isCold  = process.argv[2]
 var isRainy = process.argv[3]
+
+// Your code goes here
+isCold= (isCold == 'true')
+isRainy= (isRainy == 'true')
+
 
 if ( isCold ) {
   if ( isRainy ) {

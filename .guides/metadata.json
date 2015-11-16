@@ -149,7 +149,7 @@
      "action": "close"
     },
     {
-     "path": "content/03-ch-if-1/eq.js",
+     "path": "challenges/eq.js",
      "panel": 0,
      "action": "open"
     }
@@ -193,7 +193,7 @@
      "action": "close"
     },
     {
-     "path": "content/03-ch-if-1/neq.js",
+     "path": "challenges/neq.js",
      "panel": 0,
      "action": "open"
     }
@@ -242,7 +242,7 @@
      "action": "close"
     },
     {
-     "path": "content/03-ch-if-1/fix1.js",
+     "path": "challenges/fix1.js",
      "panel": 0,
      "action": "open"
     }
@@ -264,7 +264,7 @@
      "action": "close"
     },
     {
-     "path": "content/03-ch-if-1/fix2.js",
+     "path": "challenges/fix2.js",
      "panel": 0,
      "action": "open"
     }
@@ -286,7 +286,7 @@
      "action": "close"
     },
     {
-     "path": "content/03-ch-if-1/1-0.js",
+     "path": "challenges/1-0.js",
      "panel": 0,
      "action": "open"
     }
@@ -308,7 +308,7 @@
      "action": "close"
     },
     {
-     "path": "content/03-ch-if-1/true-false.js",
+     "path": "challenges/true-false.js",
      "panel": 0,
      "action": "open"
     }
@@ -404,7 +404,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Fast-cars-2-91a5.md",
+   "content-file": ".guides/content/Fast-Cars-2-91a5.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
