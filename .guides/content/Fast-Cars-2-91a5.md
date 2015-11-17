@@ -3,13 +3,12 @@
 |||guidance
 ## Solution
 ```javascript
-
 // Get our car speeds from the command line
-var speed1 = process.argv[2]
-var speed2 = process.argv[3]
+// Treat them as numbers
+var speed1 = +process.argv[2]
+var speed2 = +process.argv[3]
 
 // Write your code below
-
 if(speed1 > 70 && speed2 > 70){         // 2 fast cars test
   console.log('2 fast cars')
 } else if (speed1 > 70 or speed2 > 70){ // 1 fast car test

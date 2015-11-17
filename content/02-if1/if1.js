@@ -1,6 +1,6 @@
 
 // Get input from the command line
-var number = process.argv[2]
+var number = +process.argv[2]
 
 // Your code goes below
 

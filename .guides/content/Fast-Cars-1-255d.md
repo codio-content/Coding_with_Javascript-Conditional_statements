@@ -3,8 +3,12 @@
 |||guidance
 ## Solution
 ```javascript
-var car1 = process.argv[2]
-var car2 = process.argv[3]
+// Get input from the command line
+// Make sure they are treated as numbers
+var car1 = +process.argv[2]
+var car2 = +process.argv[3]
+
+// Your code goes here
 
 if (car1 > 70 || car2 > 70) {
   console.log('fast cars')

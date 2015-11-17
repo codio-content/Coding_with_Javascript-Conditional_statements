@@ -3,8 +3,10 @@
 |||guidance
 ## Solution
 ```javascript
+// Get command line arguments
 var inputText = process.argv[2]
 
+// Your code goes here
 if (inputText == 'true') {
   console.log(1)
 }

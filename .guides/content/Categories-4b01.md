@@ -3,8 +3,10 @@
 |||guidance
 ## Solution
 ```javascript
-var age = process.argv[2]
+// Get our command line arguments
+var age = +process.argv[2]
 
+// Your code goes here
 if (age >= 6 && age <= 11) {
   console.log('primary school')
 }
