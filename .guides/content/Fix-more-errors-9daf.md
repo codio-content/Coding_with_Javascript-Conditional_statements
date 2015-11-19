@@ -3,11 +3,13 @@
 |||guidance
 ## Solution
 
-- on the `if` line, we have `input` instead of `input0`
+- on the `if` line, we have `texts` instead of `text`
 - the `if` line is missing the opening `{`
 - the `else` blocked is not closed with a `}`
 
 ```javascript
+
+// Get input from the command line
 var text = process.argv[2]
 
 if (text != 'Bingo') {

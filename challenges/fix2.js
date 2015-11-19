@@ -1,8 +1,8 @@
 
 // Get input from the command line
-var input0 = process.argv[2]
+var text = process.argv[2]
 
-if (input != 'Bingo') 
+if (texts != 'Bingo') 
   console.log( 'Missed' )
 }
 else {
