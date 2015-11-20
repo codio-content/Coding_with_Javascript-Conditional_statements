@@ -5,7 +5,7 @@
 
 - on the `if` line, we have `texts` instead of `text`
 - the `if` line is missing the opening `{`
-- the `else` blocked is not closed with a `}`
+- the `else` block is not closed with a `}`
 
 ```javascript
 

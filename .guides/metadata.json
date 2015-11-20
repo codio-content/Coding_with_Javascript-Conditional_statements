@@ -18,17 +18,6 @@
    "teacherOnly": false
   },
   {
-   "id": "4a6a8fe-659d-99ef-9aa6-1ad30e2cd92",
-   "title": "Preparation video",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Preparation-video-4a6a.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "410c3ea6-6139-6dba-1cab-31aadaef7a5b",
    "title": "Experiments",
    "files": [
