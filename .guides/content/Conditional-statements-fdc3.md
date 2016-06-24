@@ -1,6 +1,6 @@
-This Unit covers the concept of conditional statements in JavaScript.
+This unit is about using conditional statements in JavaScript.
 
-Here's a good example.
+Here is a good example:
 
 ```javascript
 if (number >= 10 && number < 100 ) {  // 1. if number is 2 digits long

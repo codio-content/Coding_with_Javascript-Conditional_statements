@@ -1,4 +1,4 @@
-Take a look at the Flode chart on the left, which shows a 'not equals' condition. Below is the JavaScript code.
+Take a look at the Flode chart on the left, which shows a 'not equals' condition. Below is the JavaScript code equivalent.
 
 ```javscript
 if ( input0 != 100 ) {
@@ -10,5 +10,5 @@ else {
 ```
 
 ## !=
-You may remember from the previous Unit that the `!` sign reads 'not' and so `!=` reads 'not equals'.
+You may remember from the previous unit that the `!` sign means 'not' therefore `!=` means 'not equals'.
 

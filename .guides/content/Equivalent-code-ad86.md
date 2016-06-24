@@ -1,6 +1,6 @@
 {Run code}(node content/05-boolean/example.js)
 
-Here's the Flode chart as an *aide memoire*.
+To remind you, here is the chart in the Flode.
 
 ![](content/05-boolean/example.png)
 

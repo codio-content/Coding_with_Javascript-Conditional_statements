@@ -2,7 +2,7 @@
  "sections": [
   {
    "id": "fdc38038-ade0-1986-cb6a-6a91a844289",
-   "title": "Conditional Statements",
+   "title": "Conditional statements",
    "files": [
     {
      "path": "#tabs",
@@ -12,7 +12,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Conditional-Statements-fdc3.md",
+   "content-file": ".guides/content/Conditional-statements-fdc3.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false
@@ -87,22 +87,22 @@
   },
   {
    "id": "30ad63dc-1dec-7ee1-12e9-f906a9c7a204",
-   "title": "Condition statement explained",
+   "title": "Conditional statements explained",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Condition-statement-explained-30ad.md",
+   "content-file": ".guides/content/Conditional-statements-explained-30ad.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "3422eb7a-98c3-3692-88c3-24cd3b66654",
-   "title": "Indenting & Tab",
+   "title": "Indenting & tab",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Indenting---Tab-3422.md",
+   "content-file": ".guides/content/Indenting---tab-3422.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -312,7 +312,7 @@
   },
   {
    "id": "8a0f721c-d603-e6ae-eda4-33eea5a5592f",
-   "title": "Logical Operators",
+   "title": "Logical operators",
    "files": [
     {
      "path": "#tabs",

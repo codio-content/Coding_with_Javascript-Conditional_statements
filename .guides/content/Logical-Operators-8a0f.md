@@ -1,4 +1,4 @@
-Take a look at the Flode chart on the left. This contains 2 conditional blocks where you can see `and` and `or` being used.
+Have a look at the Flode chart on the left. The chart contains two conditional blocks where you can see `and` and `or` being used.
 
 Below is the equivalent JavaScript code. Try different values for `number`.
 
