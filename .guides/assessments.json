@@ -1,0 +1,178 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1180993407",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "JavaScript Fix the errors",
+   "instructions": "Fix the broken code on the left. \n\n- There may be more than one error!\n- Be absolutely sure your program works in both cases : `str` being equal to 'there' and then not equal.",
+   "command": "tests/fix1-test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-203651951",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "JavaScript Simple boolean return",
+   "instructions": "We provide you with a number, N.\n\nIf N is greater than or equal to 100, output a boolean true, otherwise false.",
+   "command": "tests/simple-test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2039942507",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/fast-cars1-test.sh",
+   "instructions": "You are provided with 2 input values which determine the speed of 2 cars. \n\nIf either car is travelling at more than 70 then output ‘fast cars'. Otherwise output 'ok'.",
+   "name": "JavaScript Fast Cars 1"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2383491788",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/true-false-test.sh",
+   "instructions": "This challenge is the other way round. \n\nWe provide you with a string input that is either 'true' or 'false'. You should output a number 1 if 'true' or 0 if 'false'.",
+   "name": "True or False"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2697509729",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "JavaScript Boolean inputs",
+   "instructions": "We pass in 2 boolean inputs, Cold and Rainy.\n\nYou should output a single string:\n`('cold' or 'warm') ' and ' ('rainy' or 'dry')` \nbased on these inputs.\n\n`('cold' or 'warm')` means you should use on of the two words, depending on the input boolean value.\n\nfor example false, true = 'warm and rainy' \n",
+   "command": "tests/bool-input-test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3066546204",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "JavaScript Not equals !=",
+   "instructions": "We will pass you a string. \n\n- If the string is not equal to 'Bingo' output 'Missed'\n- Otherwise output 'Hit!'\n\nUse the `!=` in your condition.",
+   "command": "tests/neq-test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3417544426",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/categories-test.sh",
+   "instructions": "You are provided with a person’s age and you need to determine which school level the person falls within. \n\n- If 6 to 11 output ‘primary school’ \n- If 12 to 18 output ‘secondary school’\n- If neither, then output ‘NA’\n",
+   "name": "JavaScript Categories"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-393850037",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/fast-cars2-test.sh",
+   "instructions": "You are provided with 2 input values which determine the speed of 2 cars. \n\n- If both cars are travelling at more than 70 then output ‘2 fast cars'\n- If one car only is moving at more than 70, output '1 fast car'\n- Otherwise output 'no fast cars'",
+   "name": "Fast Cars 2"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4031975421",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "JavaScript Equality ==",
+   "instructions": "We will provide you with a number, N.\n\n- If N is equal to 100, output 'Hit'\n- otherwise, output 'Miss'\n\nRemember, that string are case-sensitive!",
+   "command": "tests/eq-test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4186476499",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/1-0-test.sh",
+   "instructions": "You are provided with a number input which will be either 1 or 0. \n\nIf the number is 1, output ‘On’, if 0 output ‘Off’.",
+   "name": "JavaScript 1 or 0"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-484914084",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "JavaScript Fix more errors",
+   "instructions": "Fix the broken code on the left. There could be one or more errors.",
+   "command": "tests/fix2-test.sh",
+   "points": 1
+  }
+ }
+]
