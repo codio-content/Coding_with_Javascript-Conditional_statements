@@ -1,0 +1,163 @@
+{
+ "name": "Coding_with_Javascript-Conditional_statements",
+ "children": [
+  {
+   "title": "Conditional statements",
+   "id": "fdc38038-ade0-1986-cb6a-6a91a844289",
+   "pageId": "fdc38038-ade0-1986-cb6a-6a91a844289",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Experiments",
+     "id": "410c3ea6-6139-6dba-1cab-31aadaef7a5b",
+     "pageId": "410c3ea6-6139-6dba-1cab-31aadaef7a5b",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Conditions explained",
+   "id": "34717d33-cc57-b9d3-c2e1-75cde1b3d52",
+   "pageId": "34717d33-cc57-b9d3-c2e1-75cde1b3d52",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Conditions in code",
+     "id": "c5eb761e-2b57-89e1-d09a-e41a588f6633",
+     "pageId": "c5eb761e-2b57-89e1-d09a-e41a588f6633",
+     "type": "page"
+    },
+    {
+     "title": "Conditional statements explained",
+     "id": "30ad63dc-1dec-7ee1-12e9-f906a9c7a204",
+     "pageId": "30ad63dc-1dec-7ee1-12e9-f906a9c7a204",
+     "type": "page"
+    },
+    {
+     "title": "Indenting & tab",
+     "id": "3422eb7a-98c3-3692-88c3-24cd3b66654",
+     "pageId": "3422eb7a-98c3-3692-88c3-24cd3b66654",
+     "type": "page"
+    },
+    {
+     "title": "Equals explained",
+     "id": "82e9f37-b7a6-5183-ad0-9bcd30f954f",
+     "pageId": "82e9f37-b7a6-5183-ad0-9bcd30f954f",
+     "type": "page"
+    },
+    {
+     "title": "Challenge ==",
+     "id": "b06427af-17b9-d269-25a4-3e5bb775e36d",
+     "pageId": "b06427af-17b9-d269-25a4-3e5bb775e36d",
+     "type": "page"
+    },
+    {
+     "title": "Not equals explained",
+     "id": "83c6e943-b10a-e78-3845-fa1cca92aea",
+     "pageId": "83c6e943-b10a-e78-3845-fa1cca92aea",
+     "type": "page"
+    },
+    {
+     "title": "Not equals !=",
+     "id": "d48da98-57ca-f7b6-4c5a-aed29f3d4a4e",
+     "pageId": "d48da98-57ca-f7b6-4c5a-aed29f3d4a4e",
+     "type": "page"
+    },
+    {
+     "title": "Two conditions",
+     "id": "906195bc-e680-3431-1278-cdec87cc5ef",
+     "pageId": "906195bc-e680-3431-1278-cdec87cc5ef",
+     "type": "page"
+    },
+    {
+     "title": "Fix the errors",
+     "id": "f68ae52a-37df-3ade-ec3-b9fcd657168c",
+     "pageId": "f68ae52a-37df-3ade-ec3-b9fcd657168c",
+     "type": "page"
+    },
+    {
+     "title": "Fix more errors",
+     "id": "9dafc812-f1d-a381-8b96-2b6f2a19f8b1",
+     "pageId": "9dafc812-f1d-a381-8b96-2b6f2a19f8b1",
+     "type": "page"
+    },
+    {
+     "title": "1 or 0",
+     "id": "47dab4fc-c00c-fef2-ecd1-2df1e4b5d069",
+     "pageId": "47dab4fc-c00c-fef2-ecd1-2df1e4b5d069",
+     "type": "page"
+    },
+    {
+     "title": "True or False",
+     "id": "5657fe7e-e5e4-65fb-b319-e6cc24edeb55",
+     "pageId": "5657fe7e-e5e4-65fb-b319-e6cc24edeb55",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Logical operators",
+   "id": "8a0f721c-d603-e6ae-eda4-33eea5a5592f",
+   "pageId": "8a0f721c-d603-e6ae-eda4-33eea5a5592f",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "'And' and 'Or' in code",
+     "id": "e0929f02-1ca4-5237-6583-86e8839da093",
+     "pageId": "e0929f02-1ca4-5237-6583-86e8839da093",
+     "type": "page"
+    },
+    {
+     "title": "Fast Cars 1",
+     "id": "255db8aa-df53-da77-a692-bad6f9c7f0e8",
+     "pageId": "255db8aa-df53-da77-a692-bad6f9c7f0e8",
+     "type": "page"
+    },
+    {
+     "title": "Fast Cars 2",
+     "id": "91a5d539-5c8f-1a1b-b311-9e7c328be554",
+     "pageId": "91a5d539-5c8f-1a1b-b311-9e7c328be554",
+     "type": "page"
+    },
+    {
+     "title": "Categories",
+     "id": "4b018fc5-b948-747d-6eaf-893eb1733a4",
+     "pageId": "4b018fc5-b948-747d-6eaf-893eb1733a4",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Boolean",
+   "id": "d0091aa4-83b4-d6ac-6a23-6819adf1c031",
+   "pageId": "d0091aa4-83b4-d6ac-6a23-6819adf1c031",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Equivalent code",
+     "id": "ad863736-acf1-44be-ad38-d0f910a57e64",
+     "pageId": "ad863736-acf1-44be-ad38-d0f910a57e64",
+     "type": "page"
+    },
+    {
+     "title": "Simple boolean return",
+     "id": "b94c8f8d-6f90-775e-1d15-5dddcaf69386",
+     "pageId": "b94c8f8d-6f90-775e-1d15-5dddcaf69386",
+     "type": "page"
+    },
+    {
+     "title": "Boolean inputs",
+     "id": "1499ef49-cd08-8b44-a7a0-ed106afd67ee",
+     "pageId": "1499ef49-cd08-8b44-a7a0-ed106afd67ee",
+     "type": "page"
+    },
+    {
+     "title": "All done!",
+     "id": "22e1bf61-cb46-b0ba-3d8-e76fccc0ba2b",
+     "pageId": "22e1bf61-cb46-b0ba-3d8-e76fccc0ba2b",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
